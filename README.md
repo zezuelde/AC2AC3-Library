@@ -5,7 +5,7 @@
 # AC2AC3-Library
 Assets from Ace Combat 2 and Ace Combat 3
 
-There is no files/downloadable content here, The only thing is this link to [Krishtys website](http://krishty.com/acecombat_en) documenting on ripping models, gaining help and also all models from AC2 and AC3 including their source codes (and many others).
+Everything here was pulled from [Krishtys website](http://krishty.com/acecombat_en) documenting on ripping models, gaining help and also all models from AC2 and AC3 including their source codes (and many others). They are an absolute prodigy of a person being able to pull them off, if in any way you can, please support them.
   
 As quoted by them:
 
