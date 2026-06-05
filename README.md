@@ -11,6 +11,18 @@ As quoted by them:
 
 > I extracted the levels, models, and sounds from the 1999 PlayStation game Ace Combat 3: Electrosphere (and discovered two unused levels by the way). I’m still working on Ace Combat 2 (1997) and Air Combat (1995).
 This is where I gather my stuff:
+
+The files at the top of this repo has the following functions:
+
+***AC3 Levels and Models.7z*** - All models and Assets from AC3 and AC2
+
+***unpack_AC2.exe*** - Unpacks AC2 and its entire source code
+
+***unpack_AC3.exe*** - Unpacks AC3 and its entire source code
+
+***unpack_ULZ.exe*** - extracts the compression of AC3, AC5 and strangely Time Crisis
+
+<sup>Information about the functions of the executables and also info of the 7Zip file is from Krishtys own website</sup>
   
 Credits:
 
